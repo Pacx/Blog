@@ -1,0 +1,12 @@
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\bin\Debug\net8.0\TDD.DbTestHelpers.deps.json
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\bin\Debug\net8.0\TDD.DbTestHelpers.dll
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\bin\Debug\net8.0\TDD.DbTestHelpers.pdb
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.dll
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\refint\TDD.DbTestHelpers.dll
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\TDD.DbTestHelpers.pdb
+C:\Users\Patryk\Desktop\Studia\sab\BlogCore\TDD.DbTestHelpers\obj\Debug\net8.0\ref\TDD.DbTestHelpers.dll
